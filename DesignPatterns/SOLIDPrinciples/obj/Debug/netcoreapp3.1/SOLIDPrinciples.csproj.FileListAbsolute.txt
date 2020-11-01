@@ -1,0 +1,13 @@
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.exe
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.deps.json
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.runtimeconfig.json
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.runtimeconfig.dev.json
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.pdb
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.csprojAssemblyReference.cache
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.AssemblyInfoInputs.cache
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.AssemblyInfo.cs
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.csproj.CoreCompileInputs.cache
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.pdb
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.genruntimeconfig.cache
