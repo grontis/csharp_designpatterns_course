@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -6,7 +6,7 @@ using static System.Console;
 
 namespace SOLIDPrinciples
 {
-    /// <summary>
+       /// <summary>
     /// Open-Closed Principle:
     /// classes should be open for extension, but closed for modification.
     /// This can be implemented with an enterprise pattern: specification pattern (not a gang of four pattern)
@@ -136,10 +136,11 @@ namespace SOLIDPrinciples
             }
         }
     }
-
-    class Program
+    
+    public class OpenClosed
     {
-        static void Main(string[] args)
+        //Example Main driver function (made nonstatic to not be used with project on run, only for example storage)
+        void ExampleMain(string[] args)
         {
             Product apple = new Product("apple", Color.Red, Size.Small);
             Product melon = new Product("melon", Color.Green, Size.Medium);
@@ -155,9 +156,6 @@ namespace SOLIDPrinciples
             {
                 WriteLine(product.Name);
             }
-            
-            
-            
         }
     }
 }
