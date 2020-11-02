@@ -6,7 +6,7 @@ using static System.Console;
 
 namespace SOLIDPrinciples
 {
-       /// <summary>
+    /// <summary>
     /// Open-Closed Principle:
     /// classes should be open for extension, but closed for modification.
     /// This can be implemented with an enterprise pattern: specification pattern (not a gang of four pattern)
