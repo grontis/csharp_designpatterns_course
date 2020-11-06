@@ -6,13 +6,12 @@ using static System.Console;
 
 namespace SOLIDPrinciples
 {
-    /// <summary>
     /// Open-Closed Principle:
     /// classes should be open for extension, but closed for modification.
     /// This can be implemented with an enterprise pattern: specification pattern (not a gang of four pattern)
     /// This principle may be followed through the use of interfaces that can be extended.
     /// Interface methods MUST be implemented, but interfaces can be expanded upon in design past these methods.
-    /// </summary>
+
 
     public enum Color
     {

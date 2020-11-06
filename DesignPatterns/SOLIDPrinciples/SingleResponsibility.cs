@@ -4,12 +4,11 @@ using System.IO;
 
 namespace SOLIDPrinciples
 {
-    /// <summary>
     /// Single Responsibility Principle example using a journal.
     /// Here the journal has methods of just handling the journal's responsibilities.
     /// Below is another class for maintaining journal persistence via file reading and writing,
     /// which allows for the single responsibility principle to be followed
-    /// </summary>
+
     
     public class Journal
     {

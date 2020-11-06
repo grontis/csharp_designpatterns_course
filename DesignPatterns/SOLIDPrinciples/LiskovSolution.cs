@@ -6,13 +6,12 @@ using static System.Console;
 
 namespace SOLIDPrinciples
 {
-    /// <summary>
     /// Liskov Substitution Principle:
     /// This principle works such that you should always be able to upcast to the base type for inheritance
     /// without any changes to behavior.
     /// If there is an override in child class, it should be indicated as such.
     /// The override is necessary to avoid unexpected behavior/bugs when typing subclass as base class.
-    /// </summary>
+
 
     //Standard rectangle class with virtual properties which allow for override of those properties.
     
@@ -22,10 +21,7 @@ namespace SOLIDPrinciples
         public virtual int Width { get; set; }
         public virtual int Height { get; set; }
 
-        public Rectangle()
-        {
-            
-        }
+        public Rectangle() { }
 
         public Rectangle(int width, int height)
         {

@@ -7,9 +7,14 @@ using static System.Console;
 namespace SOLIDPrinciples
 {
     
+
+    
     
     class Program
     {
-        
+        static void Main(string[] args)
+        {
+            
+        }
     }
 }
