@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using static System.Console;
 
-namespace DesignPatterns
+namespace Section2
 {
     class Program
     {

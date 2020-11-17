@@ -1,0 +1,13 @@
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\bin\Debug\netcoreapp3.1\Section2.exe
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\bin\Debug\netcoreapp3.1\Section2.deps.json
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\bin\Debug\netcoreapp3.1\Section2.runtimeconfig.json
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\bin\Debug\netcoreapp3.1\Section2.runtimeconfig.dev.json
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\bin\Debug\netcoreapp3.1\Section2.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\bin\Debug\netcoreapp3.1\Section2.pdb
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Debug\netcoreapp3.1\Section2.csprojAssemblyReference.cache
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Debug\netcoreapp3.1\Section2.AssemblyInfoInputs.cache
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Debug\netcoreapp3.1\Section2.AssemblyInfo.cs
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Debug\netcoreapp3.1\Section2.csproj.CoreCompileInputs.cache
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Debug\netcoreapp3.1\Section2.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Debug\netcoreapp3.1\Section2.pdb
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Debug\netcoreapp3.1\Section2.genruntimeconfig.cache
