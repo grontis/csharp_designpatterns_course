@@ -15,6 +15,10 @@ namespace Section2
     /// In the example below, the builder pattern is used to construct a tree
     /// of HTML elements. This simplifies and somewhat abstracts the process of creating that tree.
     /// For example, the user of the builder does not have to encode any chevron brackets (<>) or indents
+    ///
+    /// Fluent Builder:
+    /// In the example below, when a child is added using the builder, the method returns a HtmlBuilder.
+    /// This allows for chaining of add operations.
     
     public class HtmlElement
     {
@@ -72,10 +76,13 @@ namespace Section2
             root.Name = rootName;
         }
 
-        public void AddChild(string childName, string childText)
+        // Note that this method's return type is HtmlBuilder, this allows for chaining of function calls
+        public HtmlBuilder AddChild(string childName, string childText)
         {
             HtmlElement element = new HtmlElement(childName, childText);
             root.elements.Add(element);
+
+            return this;
         }
 
         public override string ToString()
@@ -95,8 +102,9 @@ namespace Section2
         void ExampleMain(string[] args)
         {
             HtmlBuilder builder = new HtmlBuilder("ul");
-            builder.AddChild("li", "hello");
-            builder.AddChild("li", "world");
+            
+            //Note the use of function chaining below using the builder (Fluent Interface)
+            builder.AddChild("li", "hello").AddChild("li", "world");
             
             WriteLine(builder.ToString());
         }
