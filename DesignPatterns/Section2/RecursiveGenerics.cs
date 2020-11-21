@@ -7,7 +7,9 @@ using System.Linq;
 using System.Text;
 using static System.Console;
 
-/// Fluent Builder inheritance with recursive generics:
+namespace RecursiveGenerics
+{
+    /// Fluent Builder inheritance with recursive generics:
 /// The fluent builder approach works well until you want to inherit from it.
 ///
 /// Once a fluent builder class is inherited from, the ability to chain properly in the fluent style
@@ -86,4 +88,5 @@ public class RecursiveGenerics
 
         Console.WriteLine(grant);
     }
+}
 }

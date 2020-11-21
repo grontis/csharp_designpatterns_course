@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using static System.Console;
 
-namespace Section2
+namespace FunctionalBuilder
 {
     /// Functional Builder:
     /// Builder pattern using a functional approach.
