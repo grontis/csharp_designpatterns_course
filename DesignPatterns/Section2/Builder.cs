@@ -6,7 +6,7 @@ using static System.Console;
 
 namespace Section2
 {
-        /// Builder design Pattern
+    /// Builder design Pattern:
     /// Some objects can be created in a single line simple constructor call.
     /// Other objects may require many arguments or pieces for construction.
     /// Rather than having an unproductive and complicated constructor with many arguments,
@@ -16,6 +16,7 @@ namespace Section2
     /// of HTML elements. This simplifies and somewhat abstracts the process of creating that tree.
     /// For example, the user of the builder does not have to encode any chevron brackets (<>) or indents
     ///
+    /// 
     /// Fluent Builder:
     /// In the example below, when a child is added using the builder, the method returns a HtmlBuilder.
     /// This allows for chaining of add operations.
