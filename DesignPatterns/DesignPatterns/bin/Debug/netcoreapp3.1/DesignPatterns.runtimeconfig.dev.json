@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\grant\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\grant\\.nuget\\packages",
-      "C:\\Microsoft\\Xamarin\\NuGet"
+      "/home/ggraver/.dotnet/store/|arch|/|tfm|",
+      "/home/ggraver/.nuget/packages"
     ]
   }
 }

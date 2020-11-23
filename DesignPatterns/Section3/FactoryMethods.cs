@@ -51,7 +51,6 @@ namespace Section3
     
     public class FactoryMethods
     {
-        //Example Main driver function (made nonstatic to not be used with project on run, only for example storage)
         void ExampleMain(string[] args)
         {
             Point point = Point.NewCartesianPoint(0, 10);

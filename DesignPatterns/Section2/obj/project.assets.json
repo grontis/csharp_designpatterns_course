@@ -8,31 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\grant\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {}
+    "/home/ggraver/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section2\\Section2.csproj",
+      "projectUniqueName": "/home/ggraver/dotnet/csharp_designpatterns_course/DesignPatterns/Section2/Section2.csproj",
       "projectName": "Section2",
-      "projectPath": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section2\\Section2.csproj",
-      "packagesPath": "C:\\Users\\grant\\.nuget\\packages\\",
-      "outputPath": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section2\\obj\\",
+      "projectPath": "/home/ggraver/dotnet/csharp_designpatterns_course/DesignPatterns/Section2/Section2.csproj",
+      "packagesPath": "/home/ggraver/.nuget/packages/",
+      "outputPath": "/home/ggraver/dotnet/csharp_designpatterns_course/DesignPatterns/Section2/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet"
-      ],
       "configFilePaths": [
-        "C:\\Users\\grant\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/ggraver/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
       }
     }
   }

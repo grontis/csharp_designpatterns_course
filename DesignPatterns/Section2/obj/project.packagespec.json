@@ -1,19 +1,15 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section2\\Section2.csproj",
+    "projectUniqueName": "/home/ggraver/dotnet/csharp_designpatterns_course/DesignPatterns/Section2/Section2.csproj",
     "projectName": "Section2",
-    "projectPath": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section2\\Section2.csproj",
-    "outputPath": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section2\\obj\\",
+    "projectPath": "/home/ggraver/dotnet/csharp_designpatterns_course/DesignPatterns/Section2/Section2.csproj",
+    "outputPath": "/home/ggraver/dotnet/csharp_designpatterns_course/DesignPatterns/Section2/obj/",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "C:\\Microsoft\\Xamarin\\NuGet"
-    ],
     "originalTargetFrameworks": [
       "netcoreapp3.1"
     ],
     "sources": {
-      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
@@ -44,7 +40,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IQ4wJElHLsCzcfP63jg9LFXi4qSUxRxsRrxgK3uN0MgxeCXwHg8xJvS+PF5dFr/AzlpEg9Hf+6pDQ67/mUoi9w==",
+  "dgSpecHash": "BxWqKi8frKF8gvL7Z0HOihhRAnj2y6hhQ5qyZebnjEuz47f0hDOwPYmP2W9ZklB8yMS9UDxjx1VHtAlnsX0+5A==",
   "success": true,
-  "projectFilePath": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
+  "projectFilePath": "/home/ggraver/dotnet/csharp_designpatterns_course/DesignPatterns/SOLIDPrinciples/SOLIDPrinciples.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
