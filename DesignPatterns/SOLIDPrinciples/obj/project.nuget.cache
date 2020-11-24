@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IQ4wJElHLsCzcfP63jg9LFXi4qSUxRxsRrxgK3uN0MgxeCXwHg8xJvS+PF5dFr/AzlpEg9Hf+6pDQ67/mUoi9w==",
+  "dgSpecHash": "EI8ifDGpdkbVe8U+5z8coxhv/oglchC3diXSKka1XVieGzL+fB6TLn/uuy8ADKVXNPBkSvjC/jJ5kAve5gpRhQ==",
   "success": true,
   "projectFilePath": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\grant\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\grant\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\grant\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\grant\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\grant\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

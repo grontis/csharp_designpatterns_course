@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/ggraver/.dotnet/store/|arch|/|tfm|",
-      "/home/ggraver/.nuget/packages"
-    ]
-  }
-}

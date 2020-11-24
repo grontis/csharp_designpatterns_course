@@ -11,3 +11,8 @@ E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\
 E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.dll
 E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.pdb
 E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.genruntimeconfig.cache
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\bin\Debug\netcoreapp3.1\MoreLinq.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\bin\Debug\netcoreapp3.1\nunit.framework.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.csproj.CopyComplete

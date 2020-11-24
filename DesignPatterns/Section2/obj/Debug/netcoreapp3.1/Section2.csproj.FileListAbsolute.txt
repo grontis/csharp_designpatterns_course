@@ -11,3 +11,8 @@ E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Deb
 E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Debug\netcoreapp3.1\Section2.dll
 E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Debug\netcoreapp3.1\Section2.pdb
 E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Debug\netcoreapp3.1\Section2.genruntimeconfig.cache
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\bin\Debug\netcoreapp3.1\MoreLinq.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\bin\Debug\netcoreapp3.1\nunit.framework.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\grontisio\dotnet\csharp_designpatterns_course\DesignPatterns\Section2\obj\Debug\netcoreapp3.1\Section2.csproj.CopyComplete

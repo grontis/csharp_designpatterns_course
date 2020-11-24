@@ -37,6 +37,7 @@ namespace Section4
     /// 
     /// </summary>
 
+    //Extension methods class that includes DeepCopy methods using serialization. 
     public static class ExtensionMethods
     {
         public static T DeepCopy<T>(this T self)
