@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DsM1cuq3aRwNT0r2K08I436FZAqycafBINyDPnt+CZGvJgJGPGq4jQVBej5lEwRmVp1AZYVzat5fk/BjO6nALg==",
+  "dgSpecHash": "vNqwEQptX4Qt7Zc3V3Y5USRHzfpNyRZsSlNREsXRS0cMPBBkrxXWo/54ungcp9W9oS4l45EK2RWMFOYRD2FWHg==",
   "success": true,
-  "projectFilePath": "/home/ggraver/dotnet/csharp_designpatterns_course/DesignPatterns/Section2/Section2.csproj",
+  "projectFilePath": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section2\\Section2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

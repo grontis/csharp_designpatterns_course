@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section3\\Section3.csproj": {}
+    "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section4\\Section4.csproj": {}
   },
   "projects": {
-    "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section3\\Section3.csproj": {
+    "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section4\\Section4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section3\\Section3.csproj",
-        "projectName": "Section3",
-        "projectPath": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section3\\Section3.csproj",
+        "projectUniqueName": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section4\\Section4.csproj",
+        "projectName": "Section4",
+        "projectPath": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section4\\Section4.csproj",
         "packagesPath": "C:\\Users\\grant\\.nuget\\packages\\",
-        "outputPath": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section3\\obj\\",
+        "outputPath": "E:\\grontisio\\dotnet\\csharp_designpatterns_course\\DesignPatterns\\Section4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet"
